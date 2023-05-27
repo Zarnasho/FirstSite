@@ -547,6 +547,8 @@ position: relative;
 	line-height: 1.42;
 	font-size: 18px;
 	margin-bottom:  10px;
+	height: 51px;
+	overflow: hidden;
 }
 
 .card > .card-body > .btn-primary{
