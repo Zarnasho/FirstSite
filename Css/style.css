@@ -732,21 +732,14 @@ position: relative;
 	max-width: 200px;
 	margin: 0px;
 }
+
 .txt-parent h2{
-	margin: 15px 0px 5px 0px;
-	display: block;
-
+	margin: 0px;
 }
 
-.txt-parent {
-	display: flex;
-	flex-direction: column;
-    position: absolute;
-    top: -16px;
-    right: 30px;
-	
+.blink a{
+	margin-right:5px;
 }
-
 .inblock{
 	display: inline-block;
 }
@@ -754,7 +747,7 @@ position: relative;
 
 
 .blink{
-	position: relative;
+	display:flex;
 	margin: 30px 0px;
 }
 
